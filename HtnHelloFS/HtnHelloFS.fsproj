@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <WarnOn>3390;$(WarnOn)</WarnOn>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>0.1</PackageVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="HelloWorld.fs" />
+    </ItemGroup>
+
+</Project>

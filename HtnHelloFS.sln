@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HtnHelloFS", "HtnHelloFS\HtnHelloFS.fsproj", "{148123F2-D492-4DF2-A895-FF2C023656C2}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HtnHelloFSTest", "HtnHelloFSTest\HtnHelloFSTest.fsproj", "{ADC49B5D-57C4-4D75-AE54-E3DC78DBAF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{148123F2-D492-4DF2-A895-FF2C023656C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148123F2-D492-4DF2-A895-FF2C023656C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148123F2-D492-4DF2-A895-FF2C023656C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148123F2-D492-4DF2-A895-FF2C023656C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC49B5D-57C4-4D75-AE54-E3DC78DBAF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC49B5D-57C4-4D75-AE54-E3DC78DBAF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC49B5D-57C4-4D75-AE54-E3DC78DBAF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC49B5D-57C4-4D75-AE54-E3DC78DBAF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
